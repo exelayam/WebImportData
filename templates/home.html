@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/html">
+<head>
+	<title>Загрузка файла</title>
+</head>
+<body>
+	<form method = "POST" enctype="multipart/form-data" action = "/">
+		<input type="file" name="file" accept=".csv">
+		<input type = "submit" value="Загрузить файл">
+	</form>
+	<p style="color:blue;">Выберите файл для загрузки</p>
+<form action="/show_data" target="_blank">
+		<input type="submit" value="Показать файл"/>
+	</form>
+<form action="/show_list" target="_blank">
+		<input type="submit" value="Показать список файлов"/>
+
+    </form>
+<form action="/login" target="_blank">
+	<input type = "submit" value = "Авторизация">
+	</form>
+</body>
+</html>
