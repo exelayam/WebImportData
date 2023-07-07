@@ -8,7 +8,7 @@
 Python, Flask, Flask login, Pandas, Sqlite, Werkzeug
 
 ## API
-![API](https://github.com/exelayam/WebImportData/blob/master/Безымянный.png)
+![API](https://github.com/exelayam/WebImportData/blob/master/api.png)
 ## Развертывание
 1. Клонировать репозиторий
 2. Подготовить основу проекта (создать папку, создать виртуальное окружение и тд)
